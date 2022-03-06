@@ -13,11 +13,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loans.Persistence", "src\Lo
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{8EA00B2F-E576-4496-8288-A87E3A0E7CEA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loans.Application.Test", "test\Loans.Application.Test\Loans.Application.Test.csproj", "{FEA3B5DE-281D-4DF8-A8AA-36BB836B5FA1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loans.Application.Tests", "test\Loans.Application.Test\Loans.Application.Tests.csproj", "{FEA3B5DE-281D-4DF8-A8AA-36BB836B5FA1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loans.Persistence.Test", "test\Loans.Persistence.Test\Loans.Persistence.Test.csproj", "{39046FF5-BC32-4F01-B854-3A0B388ABA47}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loans.Persistence.Tests", "test\Loans.Persistence.Test\Loans.Persistence.Tests.csproj", "{39046FF5-BC32-4F01-B854-3A0B388ABA47}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loans.Domain.Test", "test\Loans.Domain.Test\Loans.Domain.Test.csproj", "{158CB162-1E25-4D34-812E-AA146200F3A9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loans.Domain.Tests", "test\Loans.Domain.Test\Loans.Domain.Tests.csproj", "{158CB162-1E25-4D34-812E-AA146200F3A9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
