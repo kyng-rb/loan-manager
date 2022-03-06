@@ -1,0 +1,15 @@
+/home/reynaldo/Projects/dotnet/loans/src/Loans.Application/bin/Debug/net6.0/Loans.Application.deps.json
+/home/reynaldo/Projects/dotnet/loans/src/Loans.Application/bin/Debug/net6.0/Loans.Application.dll
+/home/reynaldo/Projects/dotnet/loans/src/Loans.Application/bin/Debug/net6.0/Loans.Application.pdb
+/home/reynaldo/Projects/dotnet/loans/src/Loans.Application/obj/Debug/net6.0/Loans.Application.csproj.AssemblyReference.cache
+/home/reynaldo/Projects/dotnet/loans/src/Loans.Application/obj/Debug/net6.0/Loans.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/reynaldo/Projects/dotnet/loans/src/Loans.Application/obj/Debug/net6.0/Loans.Application.AssemblyInfoInputs.cache
+/home/reynaldo/Projects/dotnet/loans/src/Loans.Application/obj/Debug/net6.0/Loans.Application.AssemblyInfo.cs
+/home/reynaldo/Projects/dotnet/loans/src/Loans.Application/obj/Debug/net6.0/Loans.Application.csproj.CoreCompileInputs.cache
+/home/reynaldo/Projects/dotnet/loans/src/Loans.Application/obj/Debug/net6.0/Loans.Application.dll
+/home/reynaldo/Projects/dotnet/loans/src/Loans.Application/obj/Debug/net6.0/refint/Loans.Application.dll
+/home/reynaldo/Projects/dotnet/loans/src/Loans.Application/obj/Debug/net6.0/Loans.Application.pdb
+/home/reynaldo/Projects/dotnet/loans/src/Loans.Application/obj/Debug/net6.0/ref/Loans.Application.dll
+/home/reynaldo/Projects/dotnet/loans/src/Loans.Application/bin/Debug/net6.0/Loans.Domain.dll
+/home/reynaldo/Projects/dotnet/loans/src/Loans.Application/bin/Debug/net6.0/Loans.Domain.pdb
+/home/reynaldo/Projects/dotnet/loans/src/Loans.Application/obj/Debug/net6.0/Loans.Application.csproj.CopyComplete

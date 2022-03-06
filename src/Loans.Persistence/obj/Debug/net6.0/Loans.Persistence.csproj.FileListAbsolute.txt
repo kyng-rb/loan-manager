@@ -1,0 +1,15 @@
+/home/reynaldo/Projects/dotnet/loans/src/Loans.Persistence/bin/Debug/net6.0/Loans.Persistence.deps.json
+/home/reynaldo/Projects/dotnet/loans/src/Loans.Persistence/bin/Debug/net6.0/Loans.Persistence.dll
+/home/reynaldo/Projects/dotnet/loans/src/Loans.Persistence/bin/Debug/net6.0/Loans.Persistence.pdb
+/home/reynaldo/Projects/dotnet/loans/src/Loans.Persistence/bin/Debug/net6.0/Loans.Domain.dll
+/home/reynaldo/Projects/dotnet/loans/src/Loans.Persistence/bin/Debug/net6.0/Loans.Domain.pdb
+/home/reynaldo/Projects/dotnet/loans/src/Loans.Persistence/obj/Debug/net6.0/Loans.Persistence.csproj.AssemblyReference.cache
+/home/reynaldo/Projects/dotnet/loans/src/Loans.Persistence/obj/Debug/net6.0/Loans.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/home/reynaldo/Projects/dotnet/loans/src/Loans.Persistence/obj/Debug/net6.0/Loans.Persistence.AssemblyInfoInputs.cache
+/home/reynaldo/Projects/dotnet/loans/src/Loans.Persistence/obj/Debug/net6.0/Loans.Persistence.AssemblyInfo.cs
+/home/reynaldo/Projects/dotnet/loans/src/Loans.Persistence/obj/Debug/net6.0/Loans.Persistence.csproj.CoreCompileInputs.cache
+/home/reynaldo/Projects/dotnet/loans/src/Loans.Persistence/obj/Debug/net6.0/Loans.Persistence.csproj.CopyComplete
+/home/reynaldo/Projects/dotnet/loans/src/Loans.Persistence/obj/Debug/net6.0/Loans.Persistence.dll
+/home/reynaldo/Projects/dotnet/loans/src/Loans.Persistence/obj/Debug/net6.0/refint/Loans.Persistence.dll
+/home/reynaldo/Projects/dotnet/loans/src/Loans.Persistence/obj/Debug/net6.0/Loans.Persistence.pdb
+/home/reynaldo/Projects/dotnet/loans/src/Loans.Persistence/obj/Debug/net6.0/ref/Loans.Persistence.dll
